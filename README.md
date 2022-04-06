@@ -1,3 +1,3 @@
 - Hi, I’m @MircelangeloGR i am majoring in electrical and computer engineering.
-- I’m interested in ...Engineering and Technology
-- I’m currently learning ...Java and C/C++
+- I’m interested in ...Engineering and Technology.
+- I’m currently learning ...Java and C/C++.
